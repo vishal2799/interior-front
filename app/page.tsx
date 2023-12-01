@@ -1,4 +1,4 @@
-import Banner from '@/components/Banner'
+import Banner from '@/components/banner'
 import Contact from '@/components/contact'
 import Work from '@/components/work'
 import Image from 'next/image'
