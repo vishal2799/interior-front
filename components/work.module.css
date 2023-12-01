@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.work {
+    text-align: center;
+    padding: 0 25px;
+}
+
+.heading {
+    font-size: 18px;
+    color: #292F36;
+    line-height: 1.4;
+    margin-bottom: 10px;
+}
+
+.subheading {
+    font-size: 14px;
+    color: #4D5053;
+    line-height: 1.4;
+    margin-bottom: 15px;
+}
